@@ -1,4 +1,4 @@
-package Merve;
+package Merve.week1;
 
 public class Finra {
 

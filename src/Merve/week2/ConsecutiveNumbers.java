@@ -22,7 +22,7 @@ public class ConsecutiveNumbers {
             if (i % 30 ==0){
                 System.out.println(divisibleBy2+divisibleBy3+divisibleBy5);
             } else if (i % 15 == 0) {
-                System.out.println(divisibleBy2+divisibleBy3);
+                System.out.println(divisibleBy3+divisibleBy5);
 
             } else if (i % 10 == 0) {
                 System.out.println(divisibleBy2+divisibleBy5);

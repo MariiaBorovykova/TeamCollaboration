@@ -1,4 +1,4 @@
-package mainFolder.mariia;
+package mariia.week1;
 
 public class Number_FINRA {
 

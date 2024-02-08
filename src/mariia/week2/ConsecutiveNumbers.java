@@ -1,4 +1,4 @@
-package mainFolder.mariia;
+package mariia.week2;
 
 public class ConsecutiveNumbers {
     public static void main(String[] args) {

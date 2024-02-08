@@ -1,4 +1,4 @@
-package Othmane;
+package Othmane.Week1;
 
 public class SortArray {
     public static void main(String[] args) {
